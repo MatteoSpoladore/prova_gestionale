@@ -1,7 +1,6 @@
-
 # 🧾 Gestionale Bilancio (Django + React)
 
-Un’applicazione web per la gestione e visualizzazione del **Bilancio d’esercizio** (Stato Patrimoniale e Conto Economico) e registrazione contabile.  
+Un’applicazione web per la gestione e visualizzazione del **Bilancio d’esercizio** (Stato Patrimoniale e Conto Economico) e registrazione contabile e anagrafiche (WIP).  
 Il progetto è suddiviso in **backend** (Django REST Framework) e **frontend** (React + Vite + SWC).
 
 ---
@@ -10,7 +9,7 @@ Il progetto è suddiviso in **backend** (Django REST Framework) e **frontend** (
 
 ### **Backend (Django)**
 
-- API REST per la gestione delle voci di bilancio:
+- API REST per la gestione delle voci di bilancio e delle anagrafiche (non ancora migrato):
   - Sezioni (Attivo / Passivo)
   - Categorie
   - Sottocategorie
@@ -21,8 +20,9 @@ Il progetto è suddiviso in **backend** (Django REST Framework) e **frontend** (
 
 ### **Frontend (React + Vite)**
 
-- Interfaccia tabellare con **Material UI**
+- Interfaccia tabellare con **Material UI** per visualizzazione e compilazione anagrafiche e scritture contabili
 - Raggruppamento automatico multilivello (sezione → categoria → sottocategoria → voce)
+- Esportazione delle tabelle
 - Visualizzazione dinamica dei saldi e delle voci tramite chiamata API (`axios`)
 - Componenti modulari (`Bilancio`, `BilancioTable`, ecc.)
 
@@ -39,10 +39,9 @@ uv init                    # OPZIONALE : SOLO SE SI VUOLE CREARE DA ZERO
 uv venv
 source .venv/bin/activate  # su Linux/Mac
 # oppure
-.venv\Scripts\activate     # su Windows
+source .venv\Scripts\activate     # su Windows
 uv sync                    # scarica le dipendenze necessarie dal file pyproject.toml
 ```
-
 
 #### 2️⃣ Installazione pacchetti Python
 
@@ -53,7 +52,7 @@ uv add django djangorestframework corsheaders # Non richiesto se è stato lancia
 #### 3️⃣ Migrazioni iniziali
 
 ```bash
-python manage.py makemigrations
+python manage.py makemigrations #opzionali se è stato cancellato il database
 python manage.py migrate
 ```
 
@@ -134,7 +133,7 @@ CORS_ALLOW_ALL_ORIGINS = True  # per sviluppo locale
 - Filtri, totali e calcoli automatici per le sezioni
 - Collegamento API bilancio e registrazione
 - CRUD completo lato frontend
-- Esportazione Excel e CSV direttamente da UI
+- Esportazione Excel e CSV direttamente da UI (90% completo) + Export PDF
 
 ---
 
@@ -146,6 +145,6 @@ Progetto personale
 
 ### 👤 Autore
 
-**Matteo Spoladore**
-📧 Email: --
-📦 Stack: Django REST + React + Vite + Material UI
+- **Matteo Spoladore**
+- 📧 Email: --
+- 📦 Stack: Django REST + React + Vite + Material UI
