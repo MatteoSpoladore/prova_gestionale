@@ -1,0 +1,346 @@
+[
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "A",
+    "Codice": "A",
+    "Livello": 1,
+    "Descrizione": "Crediti verso soci per versamenti ancora dovuti",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B",
+    "Codice": "B",
+    "Livello": 1,
+    "Descrizione": "Immobilizzazioni",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.I",
+    "Codice": "B.I",
+    "Livello": 2,
+    "Descrizione": "Immobilizzazioni immateriali",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.I.1",
+    "Codice": "B.I.1",
+    "Livello": 3,
+    "Descrizione": "Costi di impianto e di ampliamento",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.I.2",
+    "Codice": "B.I.2",
+    "Livello": 3,
+    "Descrizione": "Costi di sviluppo",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.I.3",
+    "Codice": "B.I.3",
+    "Livello": 3,
+    "Descrizione": "Diritti di brevetto industriale e diritti di utilizzazione delle opere dell’ingegno",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.I.4",
+    "Codice": "B.I.4",
+    "Livello": 3,
+    "Descrizione": "Concessioni, licenze, marchi e diritti simili",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.I.5",
+    "Codice": "B.I.5",
+    "Livello": 3,
+    "Descrizione": "Avviamento",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.I.6",
+    "Codice": "B.I.6",
+    "Livello": 3,
+    "Descrizione": "Immobilizzazioni in corso e acconti",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.I.7",
+    "Codice": "B.I.7",
+    "Livello": 3,
+    "Descrizione": "Altre immobilizzazioni immateriali",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.II",
+    "Codice": "B.II",
+    "Livello": 2,
+    "Descrizione": "Immobilizzazioni materiali",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.II.1",
+    "Codice": "B.II.1",
+    "Livello": 3,
+    "Descrizione": "Terreni e fabbricati",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.II.2",
+    "Codice": "B.II.2",
+    "Livello": 3,
+    "Descrizione": "Impianti e macchinario",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.II.3",
+    "Codice": "B.II.3",
+    "Livello": 3,
+    "Descrizione": "Attrezzature industriali e commerciali",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.II.4",
+    "Codice": "B.II.4",
+    "Livello": 3,
+    "Descrizione": "Altri beni",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.II.5",
+    "Codice": "B.II.5",
+    "Livello": 3,
+    "Descrizione": "Immobilizzazioni in corso e acconti",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "B.III",
+    "Codice": "B.III",
+    "Livello": 2,
+    "Descrizione": "Immobilizzazioni finanziarie",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "C",
+    "Codice": "C",
+    "Livello": 1,
+    "Descrizione": "Attivo circolante",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "C.I",
+    "Codice": "C.I",
+    "Livello": 2,
+    "Descrizione": "Rimanenze",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "C.I.1",
+    "Codice": "C.I.1",
+    "Livello": 3,
+    "Descrizione": "Materie prime, sussidiarie e di consumo",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "C.I.2",
+    "Codice": "C.I.2",
+    "Livello": 3,
+    "Descrizione": "Prodotti in corso di lavorazione e semilavorati",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "C.I.3",
+    "Codice": "C.I.3",
+    "Livello": 3,
+    "Descrizione": "Lavori in corso su ordinazione",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "C.I.4",
+    "Codice": "C.I.4",
+    "Livello": 3,
+    "Descrizione": "Prodotti finiti e merci",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "C.I.5",
+    "Codice": "C.I.5",
+    "Livello": 3,
+    "Descrizione": "Acconti",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "C.II",
+    "Codice": "C.II",
+    "Livello": 2,
+    "Descrizione": "Crediti",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "C.III",
+    "Codice": "C.III",
+    "Livello": 2,
+    "Descrizione": "Attività finanziarie che non costituiscono immobilizzazioni",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "C.IV",
+    "Codice": "C.IV",
+    "Livello": 2,
+    "Descrizione": "Disponibilità liquide",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Attivo",
+    "Sottosezione": "D",
+    "Codice": "D",
+    "Livello": 1,
+    "Descrizione": "Ratei e risconti attivi",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "A",
+    "Codice": "A",
+    "Livello": 1,
+    "Descrizione": "Patrimonio netto",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "A.I",
+    "Codice": "A.I",
+    "Livello": 2,
+    "Descrizione": "Capitale",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "A.II",
+    "Codice": "A.II",
+    "Livello": 2,
+    "Descrizione": "Riserva da soprapprezzo delle azioni",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "A.III",
+    "Codice": "A.III",
+    "Livello": 2,
+    "Descrizione": "Riserve di rivalutazione",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "A.IV",
+    "Codice": "A.IV",
+    "Livello": 2,
+    "Descrizione": "Riserva legale",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "A.V",
+    "Codice": "A.V",
+    "Livello": 2,
+    "Descrizione": "Riserve statutarie",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "A.VI",
+    "Codice": "A.VI",
+    "Livello": 2,
+    "Descrizione": "Altre riserve",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "A.VII",
+    "Codice": "A.VII",
+    "Livello": 2,
+    "Descrizione": "Riserva per operazioni di copertura dei flussi finanziari attesi",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "A.VIII",
+    "Codice": "A.VIII",
+    "Livello": 2,
+    "Descrizione": "Utili (perdite) portati a nuovo",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "A.IX",
+    "Codice": "A.IX",
+    "Livello": 2,
+    "Descrizione": "Utile (perdita) dell’esercizio",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "A.X",
+    "Codice": "A.X",
+    "Livello": 2,
+    "Descrizione": "Riserva negativa per azioni proprie in portafoglio",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "B",
+    "Codice": "B",
+    "Livello": 1,
+    "Descrizione": "Fondi per rischi e oneri",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "C",
+    "Codice": "C",
+    "Livello": 1,
+    "Descrizione": "Trattamento di fine rapporto di lavoro subordinato",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "D",
+    "Codice": "D",
+    "Livello": 1,
+    "Descrizione": "Debiti",
+    "Saldo": 0
+  },
+  {
+    "Sezione": "Passivo",
+    "Sottosezione": "E",
+    "Codice": "E",
+    "Livello": 1,
+    "Descrizione": "Ratei e risconti passivi",
+    "Saldo": 0
+  }
+]
